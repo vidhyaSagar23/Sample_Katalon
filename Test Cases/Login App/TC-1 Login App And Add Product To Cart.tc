@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-1 Login App And Add Product To Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c91f7e3f-a2aa-433d-8866-14b2baeff6ee</testCaseGuid>
+</TestCaseEntity>

@@ -6,11 +6,12 @@
    <UUID>5b30822b-f011-495a-8f2e-e05ec29a9131</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>10.0.0</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>10.0.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\vidhyasagar.elangova\Katalon Studio\E2E_PROJECT\E2E_PROJECT.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
